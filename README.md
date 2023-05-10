@@ -1,6 +1,6 @@
 <h1>Social Tree</h1>
 
-<h2>Pagina Social Tree</h2>
+<h2>Pagina Social Tree 🎉</h2>
 
 <p>
 Pagina Criada como forma de exercitar o aprendizado.
@@ -11,3 +11,4 @@ Pagina Criada como forma de exercitar o aprendizado.
   <li>HTML</li>
   <li>CSS</li>
 </ul>
+
